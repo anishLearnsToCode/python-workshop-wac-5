@@ -1,4 +1,7 @@
 .idea
 out
 venv
-day2/__pycache__
+__pycache__
+day_1/__pycache__
+day_2/__pycache__
+*.iml
