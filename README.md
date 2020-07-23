@@ -10,7 +10,7 @@
 
 <details>
     <summary><b>Workshop Timings</b></summary>
-    Workshop Dates: 18th - 19th July 2020 <br>
+    Workshop Dates: 25th - 26th July 2020 <br>
     Workshop Timings: 9:00 AM - 2:00 PM (9 - 14) <br>
     Break Timings: 11:00 AM - 12:00 AM (11 - 12)
 </details>
@@ -125,7 +125,7 @@ python hello_world.py
 >>> hello world !
 ```
 
-## [Day 1](https://github.com/anishLearnsToCode/python-workshop-4/tree/master/day1)
+## [Day 1](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day1)
 ### Topics Covered
 
 ### Sample Questions
@@ -146,7 +146,7 @@ python hello_world.py
 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-split-and-join.py) |
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/whats-your-name.py) |
 
-## [Day 2](https://github.com/anishLearnsToCode/python-workshop-4/tree/master/day2)
+## [Day 2](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day2)
 
 ### Topics Covered
 
