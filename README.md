@@ -139,9 +139,22 @@ python hello_world.py
 - [If Else Programs](day_1/if_else_statements.py)
 - [Even and odd using if else](day_1/even_odd.py)
 - [Ternary Operator](day_1/ternary_operator.py)
+- [Largest of 3 Numbers](day_1/largest_3_numbers.py)
+- [Python If Ele HackerRank](day_1/python_if_else_hackerrank.py)
 - [While Loop](day_1/while_loop.py)
 - [Sum N Natural Numbers](day_1/sum_n_natura_numbers.py)
 - [Factorial](day_1/factorial.py)
+- [Range Object](day_1/range_object.py)
+- [For Loop](day_1/for_loop.py)
+- [Sum N Natural Numbers](day_1/sum_n_natural_numbers_for_loop.py)
+- [Sum Squares](day_1/sum_squares.py)
+- [Factorial For Loop](day_1/factorial_for.py)
+- [Nested Loops](day_1/nested_loops.py)
+- [Loop Control Statements](day_1/loop_control_statements.py)
+- [Functions](day_1/functions.py)
+- [Positional Arguments in Functions](day_1/full_name.py)
+- [Binomial](day_1/binomial.py)
+- [Lists](day_1/lists.py)
 
 ### Sample Questions
 | Question | Solution Link |
