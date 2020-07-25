@@ -126,6 +126,22 @@ python hello_world.py
 
 ## [Day 1](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day1)
 ### Topics Covered
+- [Hello World!](day_1/hello_world.py)
+- [Comments](day_1/comments.py)
+- [Strings](day_1/strings.py)
+- [Variables](day_1/variables.py)
+- [Variable Names](day_1/variable_names.py)
+- [Taking user input](day_1/input.py)
+- [Taking Integer Input](day_1/integer_input.py)
+- [Arithmetic Expressions](day_1/arithmetic_expressions.py)
+- [Operator Short Hand Notation](day_1/operator_short_hand.py)
+- [Logical Expressions](day_1/logical_expressions.py)
+- [If Else Programs](day_1/if_else_statements.py)
+- [Even and odd using if else](day_1/even_odd.py)
+- [Ternary Operator](day_1/ternary_operator.py)
+- [While Loop](day_1/while_loop.py)
+- [Sum N Natural Numbers](day_1/sum_n_natura_numbers.py)
+- [Factorial](day_1/factorial.py)
 
 ### Sample Questions
 | Question | Solution Link |
