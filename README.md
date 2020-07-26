@@ -125,7 +125,7 @@ python hello_world.py
 >>> hello world !
 ```
 
-## [Day 1](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day1)
+## [Day 1](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day_1)
 ### Topics Covered
 - [Hello World!](day_1/hello_world.py)
 - [Comments](day_1/comments.py)
@@ -175,7 +175,7 @@ python hello_world.py
 | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/string-split-and-join.py) |
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/whats-your-name.py) |
 
-## [Day 2](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day2)
+## [Day 2](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day_2)
 - [List Input](day_2/list_input.py)
 - [Map Operator](day_2/map_operator.py)
 - [Iterating over List using For Loop](day_2/for_list.py)
