@@ -186,6 +186,10 @@ python hello_world.py
 - [Tuples](day_2/tuples.py)
 - [Dictionary](day_2/dictionary.py)
 - [Word Frequency Counter](day_2/frequency_counter.py)
+- [Complex Nested Dictionary](day_2/complex_dict.py)
+- [Packages](day_2/packages.py)
+- [Random Package](day_2/random_package.py)
+- [plotting using MatPlot Library](day_2/plotting.py)
 
 ### Topics Covered
 
