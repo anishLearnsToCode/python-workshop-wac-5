@@ -16,7 +16,7 @@
 </details>
 
 [Workshop Link (Zoom) 📺](https://us02web.zoom.us/w/81106340452?tk=DsHijuoS7BbJlODKnlFqpqhkG8OcYerLcywlj7K_8RE.DQIAAAAS4lCKZBY5dTVTaS1vaVNRS0NTUWgwWHlhVmdBAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=MW5DNVpYbllqbXpRTm1WakdKbkxsUT09)
-[Class Recordings 📽](https://onedrive.live.com/?authkey=%21AKTaql9%2DMKWX1fs&id=BD99C9D5BDB4DD2E%2192951&cid=BD99C9D5BDB4DD2E)
+[Class Recordings 📽](https://onedrive.live.com/?authkey=%21AKTaql9%2DMKWX1fs&id=BD99C9D5BDB4DD2E%2192951&cid=BD99C9D5BDB4DD2El)
 [Course Flow 🌊](COURSE-FLOW.md)
 
 ## Index
@@ -76,7 +76,7 @@ difference between Code editor and IDE 😉). using a code editor will aso be le
 I personally prefer the __JetBrains PyCharm__, but warning ⚠ it is a heavy software and might not run properly on 
 all machines (especially laptops that are constrained for resources).
 
-### 2. Installing VS Code (or go to step 3 - Installing PyChamr)
+### 2. Installing VS Code (or go to step 3 - Installing PyCharm)
 1. Download the setup from [here](https://code.visualstudio.com/).
 2. Run the setup which is pretty straight forward. Just click next like 10 times and voila!
 
@@ -176,6 +176,16 @@ python hello_world.py
 | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution](https://github.com/anishLearnsToCode/hackerrank-python/blob/master/strings/whats-your-name.py) |
 
 ## [Day 2](https://github.com/anishLearnsToCode/python-workshop-wac-5/tree/master/day2)
+- [List Input](day_2/list_input.py)
+- [Map Operator](day_2/map_operator.py)
+- [Iterating over List using For Loop](day_2/for_list.py)
+- [inbuilt Functions](day_2/inbuilt_functions.py)
+- [Hackerrank Mini Max Sum](day_2/mini_max_sum.py)
+- [List Comprehension / Generator Functions](day_2/list_comrehension.py)
+- [Strings](day_2/strings.py)
+- [Tuples](day_2/tuples.py)
+- [Dictionary](day_2/dictionary.py)
+- [Word Frequency Counter](day_2/frequency_counter.py)
 
 ### Topics Covered
 
